@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pinned_Location</string>
+    <string name="searchbar">Search\n</string>
+    <string name="tv_address">Address</string>
+    <string name="ev_address">Enter an Address</string>
+    <string name="tv_latitude">Latitude</string>
+    <string name="ev_latitude">Enter a Latitude</string>
+    <string name="tv_longitude">Longitude</string>
+    <string name="ev_longitude">Enter a Longitude</string>
+    <string name="s_btn">Save</string>
+    <string name="u_btn">Update</string>
+    <string name="c_btn">Cancel</string>
+    <string name="addr_item">Address: </string>
+    <string name="lat_item">Latitude: </string>
+    <string name="long_item">Longitude: </string>
+</resources>
